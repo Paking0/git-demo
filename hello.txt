@@ -6,3 +6,12 @@
 6.hello Git!!
 7.hello Git!!
 8.hello Git!!
+
+
+git add name 添加到暂存区
+git commit -m " first commit" name 提交到本地库 -m是提交信息
+git reset --hard xxx  回退到xxx版本
+branch 分支
+
+git branch -v 参看分支
+git branch 分支名  创建分支
