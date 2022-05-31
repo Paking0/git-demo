@@ -16,5 +16,12 @@ branch 分支
 git branch -v 参看分支
 git branch 分支名  创建分支
 
+<<<<<<< HEAD
 分支合并
 git merge 要合并的分支  (会与当前分支合并)
+=======
+
+切换分支：
+git checkout 分支名
+
+>>>>>>> hot-fix
