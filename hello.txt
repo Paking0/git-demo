@@ -25,3 +25,5 @@ git merge 要合并的分支  (会与当前分支合并)
 修改后的提交 不能带文件名，才能合并
 
 git push <remote别名> branch  提交到远程库 
+
+git pull <remote> branch  拉去到本地库
