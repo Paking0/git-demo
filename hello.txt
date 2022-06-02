@@ -35,3 +35,5 @@ git remote rm 别名 :删除 ‘别名’的远程仓库连接
 git remote set-url 别名 [url] ：修改‘别名’的url
 
 git clone url  克隆到本地库 无需登录
+
+git pull [ssh] branch   利用ssh
