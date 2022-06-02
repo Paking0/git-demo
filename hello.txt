@@ -27,3 +27,9 @@ git merge 要合并的分支  (会与当前分支合并)
 git push <remote别名> branch  提交到远程库 
 
 git pull <remote> branch  拉去到本地库
+
+gti remote add 别名 [url]:添加一个远程仓库
+
+git remote rm 别名 :删除 ‘别名’的远程仓库连接
+
+git remote set-url 别名 [url] ：修改‘别名’的url
